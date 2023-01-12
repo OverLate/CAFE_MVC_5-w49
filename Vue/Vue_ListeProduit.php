@@ -1,7 +1,7 @@
 <?php
 function Vue_ListeProduit($tableProduit)
 {
-    echo "<H1>Liste des produits</H1>";
+    echo "<H1>Liste des  produits</H1>";
 //Etablissement de la connexion à la base de données
 
 //table => Les résultats de la requête sous la forme d'un tableau de tableau : tableau [Ligne][Colonne]
